@@ -1,0 +1,6 @@
+{
+  "name": "BPOM - You're My Queen",
+  "description": "Product showcase for You're My Queen chocolate bar by CayLabs dedicated to Franciska Amillia Crecynda Essaydora.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

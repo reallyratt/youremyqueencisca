@@ -1,0 +1,13 @@
+@import "tailwindcss";
+
+@layer base {
+  body {
+    font-family: 'Fredoka', cursive, sans-serif;
+    background-color: #ffffff;
+    color: #1a1a1a;
+  }
+}
+
+* {
+  font-family: 'Fredoka', cursive, sans-serif;
+}
